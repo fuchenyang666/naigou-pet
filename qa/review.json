@@ -1,0 +1,962 @@
+{
+  "ok": true,
+  "frames_root": "C:\\Users\\\u4ed8\u8fb0\u9633\\Documents\\Codex\\2026-05-13\\files-mentioned-by-the-user-eb18a5aa42140ca845735a4d65b6ea7d\\naigou-run\\frames",
+  "errors": [],
+  "warnings": [],
+  "rows": [
+    {
+      "state": "idle",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\\u4ed8\u8fb0\u9633\\Documents\\Codex\\2026-05-13\\files-mentioned-by-the-user-eb18a5aa42140ca845735a4d65b6ea7d\\naigou-run\\frames\\idle\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 22174,
+          "bbox": [
+            18,
+            5,
+            174,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 358
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\\u4ed8\u8fb0\u9633\\Documents\\Codex\\2026-05-13\\files-mentioned-by-the-user-eb18a5aa42140ca845735a4d65b6ea7d\\naigou-run\\frames\\idle\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 22148,
+          "bbox": [
+            19,
+            5,
+            172,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 352
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\\u4ed8\u8fb0\u9633\\Documents\\Codex\\2026-05-13\\files-mentioned-by-the-user-eb18a5aa42140ca845735a4d65b6ea7d\\naigou-run\\frames\\idle\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 22058,
+          "bbox": [
+            21,
+            5,
+            171,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 305
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\\u4ed8\u8fb0\u9633\\Documents\\Codex\\2026-05-13\\files-mentioned-by-the-user-eb18a5aa42140ca845735a4d65b6ea7d\\naigou-run\\frames\\idle\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21883,
+          "bbox": [
+            17,
+            5,
+            175,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 359
+        },
+        {
+          "index": 4,
+          "file": "C:\\Users\\\u4ed8\u8fb0\u9633\\Documents\\Codex\\2026-05-13\\files-mentioned-by-the-user-eb18a5aa42140ca845735a4d65b6ea7d\\naigou-run\\frames\\idle\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 22161,
+          "bbox": [
+            17,
+            5,
+            174,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 285
+        },
+        {
+          "index": 5,
+          "file": "C:\\Users\\\u4ed8\u8fb0\u9633\\Documents\\Codex\\2026-05-13\\files-mentioned-by-the-user-eb18a5aa42140ca845735a4d65b6ea7d\\naigou-run\\frames\\idle\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21733,
+          "bbox": [
+            19,
+            5,
+            173,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 281
+        }
+      ]
+    },
+    {
+      "state": "running-right",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\\u4ed8\u8fb0\u9633\\Documents\\Codex\\2026-05-13\\files-mentioned-by-the-user-eb18a5aa42140ca845735a4d65b6ea7d\\naigou-run\\frames\\running-right\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 22789,
+          "bbox": [
+            5,
+            9,
+            187,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 429
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\\u4ed8\u8fb0\u9633\\Documents\\Codex\\2026-05-13\\files-mentioned-by-the-user-eb18a5aa42140ca845735a4d65b6ea7d\\naigou-run\\frames\\running-right\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20359,
+          "bbox": [
+            5,
+            13,
+            187,
+            194
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 359
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\\u4ed8\u8fb0\u9633\\Documents\\Codex\\2026-05-13\\files-mentioned-by-the-user-eb18a5aa42140ca845735a4d65b6ea7d\\naigou-run\\frames\\running-right\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17041,
+          "bbox": [
+            5,
+            24,
+            187,
+            183
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 316
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\\u4ed8\u8fb0\u9633\\Documents\\Codex\\2026-05-13\\files-mentioned-by-the-user-eb18a5aa42140ca845735a4d65b6ea7d\\naigou-run\\frames\\running-right\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21228,
+          "bbox": [
+            5,
+            10,
+            187,
+            197
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 446
+        },
+        {
+          "index": 4,
+          "file": "C:\\Users\\\u4ed8\u8fb0\u9633\\Documents\\Codex\\2026-05-13\\files-mentioned-by-the-user-eb18a5aa42140ca845735a4d65b6ea7d\\naigou-run\\frames\\running-right\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19554,
+          "bbox": [
+            5,
+            15,
+            187,
+            192
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 391
+        },
+        {
+          "index": 5,
+          "file": "C:\\Users\\\u4ed8\u8fb0\u9633\\Documents\\Codex\\2026-05-13\\files-mentioned-by-the-user-eb18a5aa42140ca845735a4d65b6ea7d\\naigou-run\\frames\\running-right\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19190,
+          "bbox": [
+            5,
+            23,
+            187,
+            185
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 339
+        },
+        {
+          "index": 6,
+          "file": "C:\\Users\\\u4ed8\u8fb0\u9633\\Documents\\Codex\\2026-05-13\\files-mentioned-by-the-user-eb18a5aa42140ca845735a4d65b6ea7d\\naigou-run\\frames\\running-right\\06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 22168,
+          "bbox": [
+            16,
+            5,
+            176,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 414
+        },
+        {
+          "index": 7,
+          "file": "C:\\Users\\\u4ed8\u8fb0\u9633\\Documents\\Codex\\2026-05-13\\files-mentioned-by-the-user-eb18a5aa42140ca845735a4d65b6ea7d\\naigou-run\\frames\\running-right\\07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16893,
+          "bbox": [
+            5,
+            22,
+            187,
+            185
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 339
+        }
+      ]
+    },
+    {
+      "state": "running-left",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\\u4ed8\u8fb0\u9633\\Documents\\Codex\\2026-05-13\\files-mentioned-by-the-user-eb18a5aa42140ca845735a4d65b6ea7d\\naigou-run\\frames\\running-left\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 22789,
+          "bbox": [
+            5,
+            9,
+            187,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 429
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\\u4ed8\u8fb0\u9633\\Documents\\Codex\\2026-05-13\\files-mentioned-by-the-user-eb18a5aa42140ca845735a4d65b6ea7d\\naigou-run\\frames\\running-left\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20359,
+          "bbox": [
+            5,
+            13,
+            187,
+            194
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 359
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\\u4ed8\u8fb0\u9633\\Documents\\Codex\\2026-05-13\\files-mentioned-by-the-user-eb18a5aa42140ca845735a4d65b6ea7d\\naigou-run\\frames\\running-left\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17041,
+          "bbox": [
+            5,
+            24,
+            187,
+            183
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 316
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\\u4ed8\u8fb0\u9633\\Documents\\Codex\\2026-05-13\\files-mentioned-by-the-user-eb18a5aa42140ca845735a4d65b6ea7d\\naigou-run\\frames\\running-left\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21228,
+          "bbox": [
+            5,
+            10,
+            187,
+            197
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 446
+        },
+        {
+          "index": 4,
+          "file": "C:\\Users\\\u4ed8\u8fb0\u9633\\Documents\\Codex\\2026-05-13\\files-mentioned-by-the-user-eb18a5aa42140ca845735a4d65b6ea7d\\naigou-run\\frames\\running-left\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20190,
+          "bbox": [
+            5,
+            14,
+            187,
+            194
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 384
+        },
+        {
+          "index": 5,
+          "file": "C:\\Users\\\u4ed8\u8fb0\u9633\\Documents\\Codex\\2026-05-13\\files-mentioned-by-the-user-eb18a5aa42140ca845735a4d65b6ea7d\\naigou-run\\frames\\running-left\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19190,
+          "bbox": [
+            5,
+            23,
+            187,
+            185
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 339
+        },
+        {
+          "index": 6,
+          "file": "C:\\Users\\\u4ed8\u8fb0\u9633\\Documents\\Codex\\2026-05-13\\files-mentioned-by-the-user-eb18a5aa42140ca845735a4d65b6ea7d\\naigou-run\\frames\\running-left\\06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 22168,
+          "bbox": [
+            16,
+            5,
+            176,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 414
+        },
+        {
+          "index": 7,
+          "file": "C:\\Users\\\u4ed8\u8fb0\u9633\\Documents\\Codex\\2026-05-13\\files-mentioned-by-the-user-eb18a5aa42140ca845735a4d65b6ea7d\\naigou-run\\frames\\running-left\\07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17021,
+          "bbox": [
+            5,
+            22,
+            187,
+            186
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 322
+        }
+      ]
+    },
+    {
+      "state": "waving",
+      "expected_frames": 4,
+      "actual_frames": 4,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\\u4ed8\u8fb0\u9633\\Documents\\Codex\\2026-05-13\\files-mentioned-by-the-user-eb18a5aa42140ca845735a4d65b6ea7d\\naigou-run\\frames\\waving\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 22015,
+          "bbox": [
+            9,
+            5,
+            183,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 177
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\\u4ed8\u8fb0\u9633\\Documents\\Codex\\2026-05-13\\files-mentioned-by-the-user-eb18a5aa42140ca845735a4d65b6ea7d\\naigou-run\\frames\\waving\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21876,
+          "bbox": [
+            14,
+            5,
+            177,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 187
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\\u4ed8\u8fb0\u9633\\Documents\\Codex\\2026-05-13\\files-mentioned-by-the-user-eb18a5aa42140ca845735a4d65b6ea7d\\naigou-run\\frames\\waving\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21494,
+          "bbox": [
+            21,
+            5,
+            171,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 178
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\\u4ed8\u8fb0\u9633\\Documents\\Codex\\2026-05-13\\files-mentioned-by-the-user-eb18a5aa42140ca845735a4d65b6ea7d\\naigou-run\\frames\\waving\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21334,
+          "bbox": [
+            23,
+            5,
+            169,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 161
+        }
+      ]
+    },
+    {
+      "state": "jumping",
+      "expected_frames": 5,
+      "actual_frames": 5,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\\u4ed8\u8fb0\u9633\\Documents\\Codex\\2026-05-13\\files-mentioned-by-the-user-eb18a5aa42140ca845735a4d65b6ea7d\\naigou-run\\frames\\jumping\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 23547,
+          "bbox": [
+            5,
+            17,
+            187,
+            191
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 290
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\\u4ed8\u8fb0\u9633\\Documents\\Codex\\2026-05-13\\files-mentioned-by-the-user-eb18a5aa42140ca845735a4d65b6ea7d\\naigou-run\\frames\\jumping\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 23180,
+          "bbox": [
+            5,
+            13,
+            187,
+            195
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 260
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\\u4ed8\u8fb0\u9633\\Documents\\Codex\\2026-05-13\\files-mentioned-by-the-user-eb18a5aa42140ca845735a4d65b6ea7d\\naigou-run\\frames\\jumping\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 25481,
+          "bbox": [
+            10,
+            5,
+            182,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 307
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\\u4ed8\u8fb0\u9633\\Documents\\Codex\\2026-05-13\\files-mentioned-by-the-user-eb18a5aa42140ca845735a4d65b6ea7d\\naigou-run\\frames\\jumping\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 24269,
+          "bbox": [
+            5,
+            9,
+            187,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 328
+        },
+        {
+          "index": 4,
+          "file": "C:\\Users\\\u4ed8\u8fb0\u9633\\Documents\\Codex\\2026-05-13\\files-mentioned-by-the-user-eb18a5aa42140ca845735a4d65b6ea7d\\naigou-run\\frames\\jumping\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 23539,
+          "bbox": [
+            15,
+            5,
+            177,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 264
+        }
+      ]
+    },
+    {
+      "state": "failed",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\\u4ed8\u8fb0\u9633\\Documents\\Codex\\2026-05-13\\files-mentioned-by-the-user-eb18a5aa42140ca845735a4d65b6ea7d\\naigou-run\\frames\\failed\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 25945,
+          "bbox": [
+            11,
+            5,
+            180,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 312
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\\u4ed8\u8fb0\u9633\\Documents\\Codex\\2026-05-13\\files-mentioned-by-the-user-eb18a5aa42140ca845735a4d65b6ea7d\\naigou-run\\frames\\failed\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21756,
+          "bbox": [
+            5,
+            27,
+            187,
+            181
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 272
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\\u4ed8\u8fb0\u9633\\Documents\\Codex\\2026-05-13\\files-mentioned-by-the-user-eb18a5aa42140ca845735a4d65b6ea7d\\naigou-run\\frames\\failed\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12696,
+          "bbox": [
+            5,
+            54,
+            187,
+            154
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 204
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\\u4ed8\u8fb0\u9633\\Documents\\Codex\\2026-05-13\\files-mentioned-by-the-user-eb18a5aa42140ca845735a4d65b6ea7d\\naigou-run\\frames\\failed\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 24789,
+          "bbox": [
+            8,
+            5,
+            184,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 309
+        },
+        {
+          "index": 4,
+          "file": "C:\\Users\\\u4ed8\u8fb0\u9633\\Documents\\Codex\\2026-05-13\\files-mentioned-by-the-user-eb18a5aa42140ca845735a4d65b6ea7d\\naigou-run\\frames\\failed\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 22111,
+          "bbox": [
+            5,
+            21,
+            187,
+            186
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 292
+        },
+        {
+          "index": 5,
+          "file": "C:\\Users\\\u4ed8\u8fb0\u9633\\Documents\\Codex\\2026-05-13\\files-mentioned-by-the-user-eb18a5aa42140ca845735a4d65b6ea7d\\naigou-run\\frames\\failed\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 26210,
+          "bbox": [
+            6,
+            5,
+            185,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 342
+        },
+        {
+          "index": 6,
+          "file": "C:\\Users\\\u4ed8\u8fb0\u9633\\Documents\\Codex\\2026-05-13\\files-mentioned-by-the-user-eb18a5aa42140ca845735a4d65b6ea7d\\naigou-run\\frames\\failed\\06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13049,
+          "bbox": [
+            5,
+            58,
+            187,
+            149
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 191
+        },
+        {
+          "index": 7,
+          "file": "C:\\Users\\\u4ed8\u8fb0\u9633\\Documents\\Codex\\2026-05-13\\files-mentioned-by-the-user-eb18a5aa42140ca845735a4d65b6ea7d\\naigou-run\\frames\\failed\\07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 25852,
+          "bbox": [
+            6,
+            5,
+            186,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 312
+        }
+      ]
+    },
+    {
+      "state": "waiting",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\\u4ed8\u8fb0\u9633\\Documents\\Codex\\2026-05-13\\files-mentioned-by-the-user-eb18a5aa42140ca845735a4d65b6ea7d\\naigou-run\\frames\\waiting\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20766,
+          "bbox": [
+            20,
+            5,
+            171,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 236
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\\u4ed8\u8fb0\u9633\\Documents\\Codex\\2026-05-13\\files-mentioned-by-the-user-eb18a5aa42140ca845735a4d65b6ea7d\\naigou-run\\frames\\waiting\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19942,
+          "bbox": [
+            24,
+            5,
+            167,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 196
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\\u4ed8\u8fb0\u9633\\Documents\\Codex\\2026-05-13\\files-mentioned-by-the-user-eb18a5aa42140ca845735a4d65b6ea7d\\naigou-run\\frames\\waiting\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21243,
+          "bbox": [
+            20,
+            5,
+            172,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 246
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\\u4ed8\u8fb0\u9633\\Documents\\Codex\\2026-05-13\\files-mentioned-by-the-user-eb18a5aa42140ca845735a4d65b6ea7d\\naigou-run\\frames\\waiting\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20370,
+          "bbox": [
+            26,
+            5,
+            166,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 204
+        },
+        {
+          "index": 4,
+          "file": "C:\\Users\\\u4ed8\u8fb0\u9633\\Documents\\Codex\\2026-05-13\\files-mentioned-by-the-user-eb18a5aa42140ca845735a4d65b6ea7d\\naigou-run\\frames\\waiting\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19658,
+          "bbox": [
+            23,
+            5,
+            168,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 201
+        },
+        {
+          "index": 5,
+          "file": "C:\\Users\\\u4ed8\u8fb0\u9633\\Documents\\Codex\\2026-05-13\\files-mentioned-by-the-user-eb18a5aa42140ca845735a4d65b6ea7d\\naigou-run\\frames\\waiting\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21041,
+          "bbox": [
+            19,
+            5,
+            173,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 238
+        }
+      ]
+    },
+    {
+      "state": "running",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\\u4ed8\u8fb0\u9633\\Documents\\Codex\\2026-05-13\\files-mentioned-by-the-user-eb18a5aa42140ca845735a4d65b6ea7d\\naigou-run\\frames\\running\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 24971,
+          "bbox": [
+            15,
+            5,
+            177,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 326
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\\u4ed8\u8fb0\u9633\\Documents\\Codex\\2026-05-13\\files-mentioned-by-the-user-eb18a5aa42140ca845735a4d65b6ea7d\\naigou-run\\frames\\running\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 25253,
+          "bbox": [
+            5,
+            7,
+            187,
+            200
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 271
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\\u4ed8\u8fb0\u9633\\Documents\\Codex\\2026-05-13\\files-mentioned-by-the-user-eb18a5aa42140ca845735a4d65b6ea7d\\naigou-run\\frames\\running\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18154,
+          "bbox": [
+            5,
+            35,
+            187,
+            173
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 233
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\\u4ed8\u8fb0\u9633\\Documents\\Codex\\2026-05-13\\files-mentioned-by-the-user-eb18a5aa42140ca845735a4d65b6ea7d\\naigou-run\\frames\\running\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 23950,
+          "bbox": [
+            16,
+            5,
+            175,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 277
+        },
+        {
+          "index": 4,
+          "file": "C:\\Users\\\u4ed8\u8fb0\u9633\\Documents\\Codex\\2026-05-13\\files-mentioned-by-the-user-eb18a5aa42140ca845735a4d65b6ea7d\\naigou-run\\frames\\running\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 25814,
+          "bbox": [
+            7,
+            5,
+            185,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 328
+        },
+        {
+          "index": 5,
+          "file": "C:\\Users\\\u4ed8\u8fb0\u9633\\Documents\\Codex\\2026-05-13\\files-mentioned-by-the-user-eb18a5aa42140ca845735a4d65b6ea7d\\naigou-run\\frames\\running\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 25505,
+          "bbox": [
+            7,
+            5,
+            185,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 317
+        }
+      ]
+    },
+    {
+      "state": "review",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\\u4ed8\u8fb0\u9633\\Documents\\Codex\\2026-05-13\\files-mentioned-by-the-user-eb18a5aa42140ca845735a4d65b6ea7d\\naigou-run\\frames\\review\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18781,
+          "bbox": [
+            29,
+            5,
+            162,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 272
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\\u4ed8\u8fb0\u9633\\Documents\\Codex\\2026-05-13\\files-mentioned-by-the-user-eb18a5aa42140ca845735a4d65b6ea7d\\naigou-run\\frames\\review\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19785,
+          "bbox": [
+            27,
+            5,
+            164,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 314
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\\u4ed8\u8fb0\u9633\\Documents\\Codex\\2026-05-13\\files-mentioned-by-the-user-eb18a5aa42140ca845735a4d65b6ea7d\\naigou-run\\frames\\review\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19485,
+          "bbox": [
+            31,
+            5,
+            160,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 276
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\\u4ed8\u8fb0\u9633\\Documents\\Codex\\2026-05-13\\files-mentioned-by-the-user-eb18a5aa42140ca845735a4d65b6ea7d\\naigou-run\\frames\\review\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20453,
+          "bbox": [
+            25,
+            5,
+            166,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 314
+        },
+        {
+          "index": 4,
+          "file": "C:\\Users\\\u4ed8\u8fb0\u9633\\Documents\\Codex\\2026-05-13\\files-mentioned-by-the-user-eb18a5aa42140ca845735a4d65b6ea7d\\naigou-run\\frames\\review\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 25389,
+          "bbox": [
+            8,
+            5,
+            183,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 393
+        },
+        {
+          "index": 5,
+          "file": "C:\\Users\\\u4ed8\u8fb0\u9633\\Documents\\Codex\\2026-05-13\\files-mentioned-by-the-user-eb18a5aa42140ca845735a4d65b6ea7d\\naigou-run\\frames\\review\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18358,
+          "bbox": [
+            24,
+            5,
+            167,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 260
+        }
+      ]
+    }
+  ]
+}
