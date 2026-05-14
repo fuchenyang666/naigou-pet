@@ -1,0 +1,11 @@
+{
+  "ok": true,
+  "run_dir": "C:\\Users\\付辰阳\\Documents\\Codex\\2026-05-13\\files-mentioned-by-the-user-eb18a5aa42140ca845735a4d65b6ea7d\\naigou-run",
+  "spritesheet": "C:\\Users\\付辰阳\\Documents\\Codex\\2026-05-13\\files-mentioned-by-the-user-eb18a5aa42140ca845735a4d65b6ea7d\\naigou-run\\final\\spritesheet.webp",
+  "validation": "C:\\Users\\付辰阳\\Documents\\Codex\\2026-05-13\\files-mentioned-by-the-user-eb18a5aa42140ca845735a4d65b6ea7d\\naigou-run\\final\\validation.json",
+  "contact_sheet": "C:\\Users\\付辰阳\\Documents\\Codex\\2026-05-13\\files-mentioned-by-the-user-eb18a5aa42140ca845735a4d65b6ea7d\\naigou-run\\qa\\contact-sheet.png",
+  "review": "C:\\Users\\付辰阳\\Documents\\Codex\\2026-05-13\\files-mentioned-by-the-user-eb18a5aa42140ca845735a4d65b6ea7d\\naigou-run\\qa\\review.json",
+  "package": "C:\\Users\\付辰阳\\.codex\\pets\\naigou",
+  "visual_qa": "pass",
+  "note": "Row 7 running with work props is intentionally kept because the user approved that design."
+}
